@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react and postgresSQL**
 
-- 💬 Ask me about **react,JS**
+- 💬 Ask me about **react, JS**
 
 - 📫 How to reach me **agmeth2003@gmail.com**
 
